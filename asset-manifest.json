@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textmanager/static/css/main.1574957e.css",
+    "main.js": "/textmanager/static/js/main.7538281e.js",
+    "static/js/787.941bb413.chunk.js": "/textmanager/static/js/787.941bb413.chunk.js",
+    "index.html": "/textmanager/index.html",
+    "main.1574957e.css.map": "/textmanager/static/css/main.1574957e.css.map",
+    "main.7538281e.js.map": "/textmanager/static/js/main.7538281e.js.map",
+    "787.941bb413.chunk.js.map": "/textmanager/static/js/787.941bb413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1574957e.css",
+    "static/js/main.7538281e.js"
+  ]
+}
